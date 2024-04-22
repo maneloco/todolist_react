@@ -29,6 +29,7 @@ h1 {
   .todo {
     display: flex;
     flex-direction: column;
+    background-color: white;
   }
     
   button {
